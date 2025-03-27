@@ -2,8 +2,24 @@
 <h2 align="center"><i> Cyfrin Related </i></h2>
 
 1. [What ?](#what-)
+   1. [Reports Table](#reports-table)
 
 # What ? 
 
 Reports from participating in [`Cyfrin Codehawks`](https://codehawks.cyfrin.io/contests)
 
+Emoji | Description 
+:--: | :--:
+💀 | Critical 
+🔥 | High
+⚠️ | Medium 
+❗ | Low
+💡 | Insight
+
+## Reports Table 
+
+Ref | Severity | Org | What
+:--: | :--: | :--: | :--: 
+`cffiscwh001` | 🔥 | [Cyfrin First Flights - Inheritable Smart Contract Wallet](https://codehawks.cyfrin.io/c/2025-03-inheritable-smart-contract-wallet) | *Improper handling of deleting elements from the beneficiary array.*
+`cffiscwh002` | 🔥 | [Cyfrin First Flights - Inheritable Smart Contract Wallet](https://codehawks.cyfrin.io/c/2025-03-inheritable-smart-contract-wallet) | *buyOutEstateNFT Function issues*
+`cffiscwh003` | 🔥 | [Cyfrin First Flights - Inheritable Smart Contract Wallet](https://codehawks.cyfrin.io/c/2025-03-inheritable-smart-contract-wallet) | *Custom reentrancy modifier fails to provide protection*
