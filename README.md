@@ -3,6 +3,8 @@
 <h1 align="center"><code> xo-w3bbr </code></h1>
 <h2 align="center"><i> Web 3 Bug Bounty Reports </i></h2>
 
+[![](./gfx/t.webp)](https://x.com/xyizko)
+
 1. [xo-w3bbr](#xo-w3bbr)
 2. [Reports](#reports)
    1. [Legend](#legend)
