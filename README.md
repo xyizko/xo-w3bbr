@@ -26,8 +26,8 @@ Emoji | Description
 
 ## Reports Table 
 
-> This table identifies the program and the number of findings
+> This table identifies the program and the number of VALID findings as judged by the program
 
 Ref | Program | Findings
 :--: | :--: | :--:
-[`CFFISCXXXX`](./cyf/README.MD) | [Cyfrin First Flights - Inheritable Smart Contract Wallet](https://codehawks.cyfrin.io/c/2025-03-inheritable-smart-contract-wallet) | `4`🔥
+[`CFFISCXXXX`](./cyf/README.MD) | [Cyfrin First Flights - Inheritable Smart Contract Wallet](https://codehawks.cyfrin.io/c/2025-03-inheritable-smart-contract-wallet) | `3`🔥
