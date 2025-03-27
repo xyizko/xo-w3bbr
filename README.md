@@ -3,7 +3,11 @@
 <h1 align="center"><code> xo-w3bbr </code></h1>
 <h2 align="center"><i> Web 3 Bug Bounty Reports </i></h2>
 
-[![](./gfx/t.webp)](https://x.com/xyizko)
+<p align="center">
+<a href="https://x.com/xyizko" target="_blank" rel="noopener noreferrer">
+<img src="./gfx/t.webp">
+</a>
+</p>
 
 1. [xo-w3bbr](#xo-w3bbr)
 2. [Reports](#reports)
