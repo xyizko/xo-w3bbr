@@ -26,8 +26,8 @@ Emoji | Description
 
 ## Reports Table 
 
-Ref | Severity | Org | What
-:--: | :--: | :--: | :--: 
-`cffiscwh001` | 🔥 | [Cyfrin First Flights - Inheritable Smart Contract Wallet](https://codehawks.cyfrin.io/c/2025-03-inheritable-smart-contract-wallet) | *Improper handling of deleting elements from the beneficiary array.*
-`cffiscwh002` | 🔥 | [Cyfrin First Flights - Inheritable Smart Contract Wallet](https://codehawks.cyfrin.io/c/2025-03-inheritable-smart-contract-wallet) | *buyOutEstateNFT Function issues*
-`cffiscwh003` | 🔥 | [Cyfrin First Flights - Inheritable Smart Contract Wallet](https://codehawks.cyfrin.io/c/2025-03-inheritable-smart-contract-wallet) | *Custom reentrancy modifier fails to provide protection*
+> This table identifies the program and the number of findings
+
+Ref | Program | Findings
+:--: | :--: | :--:
+[`CFFISCXXXX`](./cyf/README.MD) | [Cyfrin First Flights - Inheritable Smart Contract Wallet](https://codehawks.cyfrin.io/c/2025-03-inheritable-smart-contract-wallet) | `4`🔥
