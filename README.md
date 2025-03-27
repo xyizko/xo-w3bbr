@@ -14,4 +14,4 @@
 
 Ref | Org | What
 :--: | :--: | :--:
-
+cffiscwh001 | [Cyfrin First Flights - Inheritable Smart Contract Wallet](https://codehawks.cyfrin.io/c/2025-03-inheritable-smart-contract-wallet) | 
