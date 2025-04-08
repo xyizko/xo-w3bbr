@@ -5,7 +5,7 @@
 
 <p align="center">
 <a href="https://x.com/xyizko" target="_blank" rel="noopener noreferrer">
-<img src="./gfx/t.webp">
+<img src="./gfx/c.webp">
 </a>
 </p>
 
@@ -19,12 +19,6 @@
 > This repository will have various web 3 related bug bounty reports. 
 
 # Reports 
-
-<p align="center">
-<a href="https://x.com/xyizko" target="_blank" rel="noopener noreferrer">
-<img src="./gfx/c.webp">
-</a>
-</p>
 
 ## Legend
 
