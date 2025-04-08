@@ -36,4 +36,4 @@ Emoji | Description
 
 Ref | Program | Findings
 :--: | :--: | :--:
-[`CFFISCXXXX`](./cyf/README.MD) | [Cyfrin First Flights - Inheritable Smart Contract Wallet](https://codehawks.cyfrin.io/c/2025-03-inheritable-smart-contract-wallet) | `3`🔥
+[`CFFISC`](./cyf/cffisc/README.MD) | [Cyfrin First Flights - Inheritable Smart Contract Wallet](https://codehawks.cyfrin.io/c/2025-03-inheritable-smart-contract-wallet) | `3`🔥

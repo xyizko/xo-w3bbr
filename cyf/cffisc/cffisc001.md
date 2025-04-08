@@ -11,7 +11,7 @@
 
 # Bugs Found
 
-[![](../gfx/cffisc.jpg)](https://x.com/xyizko)
+[![](../../gfx/cffisc.jpg)](https://x.com/xyizko)
 
 # Summary 
 
