@@ -1,12 +1,12 @@
-<h1 align="center"><code> cyf </code></h1>
-<h2 align="center"><i> Cyfrin Related </i></h2>
+<h1 align="center"><code> cffisc </code></h1>
+<h2 align="center"><i> Cyfrin First Flight - Inheritable Smart Contract Wallet</i></h2>
 
 1. [What ?](#what-)
    1. [Reports Table](#reports-table)
 
 # What ? 
 
-Reports from participating in [`Cyfrin Codehawks`](https://codehawks.cyfrin.io/contests)
+Reports from participating in [`Cyfrin Codehawks - Rust Fund`](https://codehawks.cyfrin.io/c/2025-03-inheritable-smart-contract-wallet)
 
 Emoji | Description 
 :--: | :--:
