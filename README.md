@@ -20,6 +20,12 @@
 
 # Reports 
 
+<p align="center">
+<a href="https://x.com/xyizko" target="_blank" rel="noopener noreferrer">
+<img src="./gfx/c.webp">
+</a>
+</p>
+
 ## Legend
 
 Emoji | Description 
