@@ -2,7 +2,9 @@
 <h2 align="center"><i> Cyfrin First Flights - Rock Paper Scissors </i></h2>
 
 1. [What ?](#what-)
-   1. [Reports Table](#reports-table)
+   1. [Rank](#rank)
+   2. [Reports Table](#reports-table)
+
 
 # What ? 
 
@@ -24,4 +26,4 @@ Emoji | Description
 
 Ref | Severity | Program | What
 :--: | :--: | :--: | :--: 
-[`cffrf001`](./cffrf001.md) | 🔥 | [`Cyfrin Codehawks Rust Funds`](https://codehawks.cyfrin.io/c/2025-03-rustfund) | [*(Medium) Lack of withdrawal condition check*](./cffrf001.md)
+[`cffrpa001`](./cffrpa001.md) | 🔥 | [`Cyfrin Codehawks - First Flights - Rock Paper Scissors`](https://codehawks.cyfrin.io/c/2025-04-rock-paper-scissors) | [*(HIGH) Denial of Service on Prize/Refund*](./cffrpa001.md)
