@@ -3,6 +3,12 @@
 <h3 align="center"><i> 🔥 Severity HIGH</i></h3>
 
 1. [Bugs Found](#bugs-found)
+2. [Summary](#summary)
+3. [Vulnerability Details](#vulnerability-details)
+   1. [Exploitation Procedure](#exploitation-procedure)
+4. [Impact](#impact)
+5. [Recomendations](#recomendations)
+
 
 # Bugs Found
 
