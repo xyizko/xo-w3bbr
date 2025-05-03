@@ -24,6 +24,8 @@ Emoji | Description
 
 ## Reports Table 
 
+[![](../../gfx/cffrpa_bf.jpg)](https://profiles.cyfrin.io/u/xyizko)
+
 Ref | Severity | Program | What
 :--: | :--: | :--: | :--: 
 [`cffrpa001`](./cffrpa001.md) | 🔥 | [`Cyfrin Codehawks - First Flights - Rock Paper Scissors`](https://codehawks.cyfrin.io/c/2025-04-rock-paper-scissors) | [*(HIGH) Denial of Service on Prize/Refund*](./cffrpa001.md)
