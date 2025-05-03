@@ -2,6 +2,7 @@
 <h2 align="center"><i> Cyfrin First Flight - Inheritable Smart Contract Wallet</i></h2>
 
 1. [What ?](#what-)
+2. [Rank](#rank)
    1. [Reports Table](#reports-table)
 
 # What ? 
@@ -12,10 +13,10 @@ Reports from participating in [`Cyfrin Codehawks - Rust Fund`](https://codehawks
 
 [![](../../gfx/cffisclb.jpg)](https://codehawks.cyfrin.io/c/2025-03-inheritable-smart-contract-wallet/results?lt=contest&page=6&sc=xp&sj=reward&t=leaderboard)
 
-Emoji | Description 
-:--: | :--:
+Emoji | Description | Stats
+:--: | :--: | :--:
 💀 | Critical 
-🔥 | High
+🔥 | High | 3
 ⚠️ | Medium 
 ❗ | Low
 💡 | Insight

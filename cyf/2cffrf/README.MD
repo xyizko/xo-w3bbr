@@ -2,7 +2,8 @@
 <h2 align="center"><i> Cyfrin First Flight - Rust Fund </i></h2>
 
 1. [What ?](#what-)
-   1. [Reports Table](#reports-table)
+   1. [Rank](#rank)
+   2. [Reports Table](#reports-table)
 
 # What ? 
 
@@ -12,10 +13,10 @@ Reports from participating in [`Cyfrin Codehawks Rust Funds`](https://codehawks.
 
 [![](../../gfx/cfflb.jpg)](https://codehawks.cyfrin.io/c/2025-03-rustfund/results?lt=contest&page=6&sc=xp&sj=reward&t=leaderboard)
 
-Emoji | Description 
-:--: | :--:
+Emoji | Description | Stats
+:--: | :--: | :--:
 💀 | Critical 
-🔥 | High
+🔥 | High | 1
 ⚠️ | Medium 
 ❗ | Low
 💡 | Insight
