@@ -8,6 +8,10 @@
 
 Reports from participating in [`Cyfrin Codehawks Rust Funds`](https://codehawks.cyfrin.io/c/2025-03-rustfund)
 
+## Rank 
+
+[![](../../gfx/cfflb.jpg)](https://codehawks.cyfrin.io/c/2025-03-rustfund/results?lt=contest&page=6&sc=xp&sj=reward&t=leaderboard)
+
 Emoji | Description 
 :--: | :--:
 💀 | Critical 
