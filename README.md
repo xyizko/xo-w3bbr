@@ -4,7 +4,7 @@
 <h2 align="center"><i> Web 3 Bug Bounty Reports </i></h2>
 
 <p align="center">
-<a href="https://x.com/xyizko" target="_blank" rel="noopener noreferrer">
+<a href="https://profiles.cyfrin.io/u/xyizko" target="_blank" rel="noopener noreferrer">
 <img src="./gfx/c.webp">
 </a>
 </p>
