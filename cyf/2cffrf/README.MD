@@ -23,6 +23,9 @@ Emoji | Description | Stats
 
 ## Reports Table 
 
+[![](../../gfx/cffrf.jpg)](https://profiles.cyfrin.io/u/xyizko)
+
+
 Ref | Severity | Program | What
 :--: | :--: | :--: | :--: 
 [`cffrf001`](./cffrf001.md) | 🔥 | [`Cyfrin Codehawks Rust Funds`](https://codehawks.cyfrin.io/c/2025-03-rustfund) | [*(Medium) Lack of withdrawal condition check*](./cffrf001.md)
