@@ -29,3 +29,4 @@ Emoji | Description
 Ref | Severity | Program | What
 :--: | :--: | :--: | :--: 
 [`cffrpa001`](./cffrpa001.md) | 🔥 | [`Cyfrin Codehawks - First Flights - Rock Paper Scissors`](https://codehawks.cyfrin.io/c/2025-04-rock-paper-scissors) | [*(HIGH) Denial of Service on Prize/Refund*](./cffrpa001.md)
+[`cffrpa001`](./cffrpa002.md) | ⚠️ | [`Cyfrin Codehawks - First Flights - Rock Paper Scissors`](https://codehawks.cyfrin.io/c/2025-04-rock-paper-scissors) | [*(Medium) Arbitrary Reveal Timeout Griefing - Allows a player to lock opponent's funds/tokens for an arbitrary duration.*](./cffrpa002.md)
