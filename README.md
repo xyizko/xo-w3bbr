@@ -38,4 +38,4 @@ Ref | Program | Findings | Rank
 :--: | :--: | :--: | :--:
 [`CFFISC`](./cyf/1cffisc/README.MD) | [`Cyfrin First Flights - Inheritable Smart Contract Wallet`](https://codehawks.cyfrin.io/c/2025-03-inheritable-smart-contract-wallet) | [`3`🔥](./cyf/1cffisc/README.MD) | [`54`](https://codehawks.cyfrin.io/c/2025-03-inheritable-smart-contract-wallet/results?lt=contest&page=6&sc=xp&sj=reward&t=leaderboard)
 [`CFFRF`](./cyf/2cffrf/README.MD) | [`Cyfrin First Flight - Rust Fund`](https://codehawks.cyfrin.io/c/2025-03-rustfund) | [`1`🔥](./cyf/2cffrf/README.MD) | [`56`](https://codehawks.cyfrin.io/c/2025-03-rustfund/results?lt=contest&page=6&sc=xp&sj=reward&t=leaderboard)
-[`CFFRPA`](./cyf/cffrf/README.MD) | [`Cyfrin First Flight - Rock Paper Scissors`](https://codehawks.cyfrin.io/c/2025-04-rock-paper-scissors) | [`2`🔥](./cyf/cffrf/README.MD) | sd
+[`CFFRPA`](./cyf/3cffrpa/README.MD) | [`Cyfrin First Flight - Rock Paper Scissors`](https://codehawks.cyfrin.io/c/2025-04-rock-paper-scissors) | [`1`🔥  `3`⚠️](./cyf/3cffrpa/README.MD) | sd

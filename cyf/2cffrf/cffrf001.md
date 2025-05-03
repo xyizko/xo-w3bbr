@@ -11,7 +11,7 @@
 
 # Bugs Found
 
-[![](../../gfx/cffrf.jpg)](https://x.com/xyizko)
+[![](../../gfx/cffrf.jpg)](https://profiles.cyfrin.io/u/xyizko)
 
 # Summary 
 
