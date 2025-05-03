@@ -8,6 +8,10 @@
 
 Reports from participating in [`Cyfrin Codehawks - Rust Fund`](https://codehawks.cyfrin.io/c/2025-03-inheritable-smart-contract-wallet)
 
+# Rank
+
+[![](../../gfx/cffisclb.jpg)](https://codehawks.cyfrin.io/c/2025-03-inheritable-smart-contract-wallet/results?lt=contest&page=6&sc=xp&sj=reward&t=leaderboard)
+
 Emoji | Description 
 :--: | :--:
 💀 | Critical 
